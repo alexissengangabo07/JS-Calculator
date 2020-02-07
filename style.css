@@ -1,0 +1,61 @@
+/* Created Using Easy HTML v1.2.5 */
+/* https://play.google.com/store/apps/details?id=ak.andro.easyhtml */
+
+.input{
+  border-radius : 100%;
+  border:none;
+  height:50px;
+  width:50px;
+  font-size:20px;
+  outline:none;
+}
+.input:hover{
+  background-color: darkgray;
+}
+#main{
+  margin-top:30px;
+}
+#btn{
+  padding: 15px;
+ }
+#equal{
+  width: 300px;
+  border-radius: 6px;
+  color: #fff;
+  background-color: orange;
+ }
+#equal:hover{
+  background-color: gold;
+ }
+.signe{
+  color: #fff;
+  background-color: dodgerblue;
+ }
+.signe:hover{
+  background-color: darkblue;
+ }
+#delete{
+  color:#fff;
+  background-color: red;
+ }
+#delete:hover{
+  background-color: darkred;
+ }
+.answer{
+  text-align : right;
+  border-radius: 0px;
+  border:1px solid lightgray;
+  width:350px;
+  padding-right: 30px;
+  margin: 10px 10px;
+  height : 80px;
+  overflow : scroll;
+  font-size: 25px;
+  box-shadow: 1px 1px 60px 1px lightgray;
+}
+body{
+  height : 587px;
+  overflow: hidden;
+  border: 1px solid black;
+ }
+  
